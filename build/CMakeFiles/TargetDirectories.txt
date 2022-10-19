@@ -1,0 +1,6 @@
+/data/home/zhipz/work/scripts/build/CMakeFiles/Class.dir
+/data/home/zhipz/work/scripts/build/CMakeFiles/class.dir
+/data/home/zhipz/work/scripts/build/CMakeFiles/Read_Corsika.dir
+/data/home/zhipz/work/scripts/build/CMakeFiles/Draw.dir
+/data/home/zhipz/work/scripts/build/CMakeFiles/edit_cache.dir
+/data/home/zhipz/work/scripts/build/CMakeFiles/rebuild_cache.dir

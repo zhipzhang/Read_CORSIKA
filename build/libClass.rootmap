@@ -1,0 +1,6 @@
+[ libClass.so ]
+# List of selected classes
+class Photon_bunches
+class events
+header include/Photon_bunches.h
+header include/events.h

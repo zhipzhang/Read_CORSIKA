@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/data/home/zhipz/work/scripts/build",
+  "command": "/usr/bin/g++ -Dclass_EXPORTS -I/data/home/zhipz/root/include -I/data/home/zhipz/work/scripts/include  -g -O2  -std=c++11 -pipe -fsigned-char -pthread -fPIC -std=gnu++11 -o CMakeFiles/class.dir/src/Photon_bunches.cpp.o -c /data/home/zhipz/work/scripts/src/Photon_bunches.cpp",
+  "file": "/data/home/zhipz/work/scripts/src/Photon_bunches.cpp"
+},
+{
+  "directory": "/data/home/zhipz/work/scripts/build",
+  "command": "/usr/bin/g++ -Dclass_EXPORTS -I/data/home/zhipz/root/include -I/data/home/zhipz/work/scripts/include  -g -O2  -std=c++11 -pipe -fsigned-char -pthread -fPIC -std=gnu++11 -o CMakeFiles/class.dir/src/Tel_groups.cpp.o -c /data/home/zhipz/work/scripts/src/Tel_groups.cpp",
+  "file": "/data/home/zhipz/work/scripts/src/Tel_groups.cpp"
+},
+{
+  "directory": "/data/home/zhipz/work/scripts/build",
+  "command": "/usr/bin/cc -Dclass_EXPORTS -I/data/home/zhipz/root/include -I/data/home/zhipz/work/scripts/include   -pipe -pthread -fPIC -o CMakeFiles/class.dir/src/rec_tools.c.o -c /data/home/zhipz/work/scripts/src/rec_tools.c",
+  "file": "/data/home/zhipz/work/scripts/src/rec_tools.c"
+},
+{
+  "directory": "/data/home/zhipz/work/scripts/build",
+  "command": "/usr/bin/g++ -Dclass_EXPORTS -I/data/home/zhipz/root/include -I/data/home/zhipz/work/scripts/include  -g -O2  -std=c++11 -pipe -fsigned-char -pthread -fPIC -std=gnu++11 -o CMakeFiles/class.dir/Class.cxx.o -c /data/home/zhipz/work/scripts/build/Class.cxx",
+  "file": "/data/home/zhipz/work/scripts/build/Class.cxx"
+},
+{
+  "directory": "/data/home/zhipz/work/scripts/build",
+  "command": "/usr/bin/g++  -I/data/home/zhipz/root/include -I/data/home/zhipz/work/scripts/include  -g -O2  -std=c++11 -pipe -fsigned-char -pthread -std=gnu++11 -o CMakeFiles/Read_Corsika.dir/src/get_photons.cpp.o -c /data/home/zhipz/work/scripts/src/get_photons.cpp",
+  "file": "/data/home/zhipz/work/scripts/src/get_photons.cpp"
+},
+{
+  "directory": "/data/home/zhipz/work/scripts/build",
+  "command": "/usr/bin/g++  -I/data/home/zhipz/root/include -I/data/home/zhipz/work/scripts/include  -g -O2  -std=c++11 -pipe -fsigned-char -pthread -std=gnu++11 -o CMakeFiles/Draw.dir/src/Draw.cpp.o -c /data/home/zhipz/work/scripts/src/Draw.cpp",
+  "file": "/data/home/zhipz/work/scripts/src/Draw.cpp"
+}
+]
